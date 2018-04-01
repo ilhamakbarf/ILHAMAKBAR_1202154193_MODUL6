@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "333428088700",
+    "firebase_url": "https://ilhamakbar1202154193modul6.firebaseio.com",
+    "project_id": "ilhamakbar1202154193modul6",
+    "storage_bucket": "ilhamakbar1202154193modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333428088700:android:a5044877c2464419",
+        "android_client_info": {
+          "package_name": "com.example.ilhamakbar.ilhamakbar_1202154193_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333428088700-ssbuednub43me1h6svee8u74mn9tl0fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ilhamakbar.ilhamakbar_1202154193_modul6",
+            "certificate_hash": "9328e494bacb9348aa48642454184baab3a102da"
+          }
+        },
+        {
+          "client_id": "333428088700-r83i8qd67lrlla0ne4boj2g5dai6uhcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7-4OZoyPErrgAWqW9Subyh4VChLOlbj8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333428088700-r83i8qd67lrlla0ne4boj2g5dai6uhcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
